@@ -7,4 +7,7 @@ Supported languages:
     <h4>C#</h4>
   </li>
 </ul>
+
+You can **Compile the code**
+
 That's it 😎😎
